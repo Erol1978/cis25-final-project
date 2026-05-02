@@ -1,2 +1,12 @@
-# cis25-final-project
-CIS 25 Final Project - Initial Feature Implementation
+## Current Status
+
+Implemented Features:
+- Display Player Status
+
+Stubbed:
+- Inventory
+- Combat
+- Save system
+
+Known Issues:
+- No input validation
