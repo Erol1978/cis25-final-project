@@ -1,0 +1,6 @@
+/workspaces/cis25-final-project/build/CMakeFiles/core.dir
+/workspaces/cis25-final-project/build/CMakeFiles/main.dir
+/workspaces/cis25-final-project/build/CMakeFiles/tests.dir
+/workspaces/cis25-final-project/build/CMakeFiles/test.dir
+/workspaces/cis25-final-project/build/CMakeFiles/edit_cache.dir
+/workspaces/cis25-final-project/build/CMakeFiles/rebuild_cache.dir

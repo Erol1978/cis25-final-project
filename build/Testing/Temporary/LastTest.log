@@ -1,0 +1,20 @@
+Start testing: May 06 01:41 UTC
+----------------------------------------------------------
+1/1 Testing: Tests
+1/1 Test: Tests
+Command: "/workspaces/cis25-final-project/build/tests"
+Directory: /workspaces/cis25-final-project/build
+"Tests" start time: May 06 01:41 UTC
+Output:
+----------------------------------------------------------
+Running tests...
+All tests passed.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Tests" end time: May 06 01:41 UTC
+"Tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 06 01:41 UTC
