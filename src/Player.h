@@ -12,5 +12,8 @@ public:
     std::string getName() const;
     int getHealth() const;
 
+    void takeDamage(int amount);
+    void heal(int amount);
+
     void display() const;
 };
